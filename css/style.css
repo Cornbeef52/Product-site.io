@@ -41,3 +41,7 @@ a:hover {
 a:active {
   background-color:#e3be2b
 }
+
+.food {
+  filter:drop-shadow(8px 8px 10px yellow);
+}
